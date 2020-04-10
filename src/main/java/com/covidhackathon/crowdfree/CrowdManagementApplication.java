@@ -1,4 +1,4 @@
-package com.covidhackathon.crowdmanagement;
+package com.covidhackathon.crowdfree;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

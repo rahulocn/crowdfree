@@ -1,4 +1,4 @@
-package com.covidhackathon.crowdmanagement;
+package com.covidhackathon.crowdfree;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
