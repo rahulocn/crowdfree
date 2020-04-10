@@ -1,4 +1,4 @@
-Title: CrowdFree (#StayAwayFromCrowd)
+Title: CrowdFree (#KeepSafeDistance)
 Theme: Open innovation for COVID-19
 Description: 
 Introduction:
